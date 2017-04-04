@@ -1,0 +1,23 @@
+{
+  "name": "frisby_framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nigeria_spec.js",
+  "dependencies": {
+    "frisby": "^0.8.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexMurphy/frisby_framework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexMurphy/frisby_framework/issues"
+  },
+  "homepage": "https://github.com/AlexMurphy/frisby_framework#readme"
+}
